@@ -1,4 +1,4 @@
-# 2-Responsive-Portfolio header H1
+# 2-Responsive-Portfolio
 
 ## Table of contents
 * [Assignment Info](#assignment-info)
@@ -7,11 +7,14 @@
 * [Key Notes](#key-notes)
 
 ## Assignment info
-This project is simple Lorem ipsum dolor generator.
+This assignment is for us to get familiar with bootstrap. Learning about 
+row and colums that are involved in a container. Understanding the flow and
+grid layout of bootstap and HTML/CSS.
+
 	
 ## Technologies
 Project is created with:
-* Bootdtrsp v4.4
+* Bootstrap v4.4
 * Visual Studios Code (HTML/CSS)
 * Google
 	
@@ -49,5 +52,4 @@ $ <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min
 $ <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.0/js/bootstrap.min.js"
         integrity="sha384-3qaqj0lc6sV/qpzrc1N5DC6i1VRn/HyX4qdPaiEFbn54VjQBEU341pvjz7Dv3n6P"
         crossorigin="anonymous"></script>
-$ npm start
 ```

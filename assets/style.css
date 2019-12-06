@@ -78,6 +78,9 @@ h1{
   border: none;
 }
 
-.img-thumbnail{
+.img-fluid{
   border: none;
+  height: 400px;
+  width: 400px;
+  margin-bottom: 10px;
 }
